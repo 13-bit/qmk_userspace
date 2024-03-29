@@ -1,4 +1,9 @@
 {
     "userspace_version": "1.0",
-    "build_targets": []
+    "build_targets": [
+        ["preonic/rev3", "13bit"],
+        ["converter/adb_usb/rev1", "13bit"],
+        ["planck/rev5", "13bit"],
+        ["sofle/rev1", "13bit"]
+    ]
 }
